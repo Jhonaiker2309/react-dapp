@@ -1,4 +1,9 @@
+body {
+  background-color: #F5EEDC;
+}
+
 .mainContainer {
+
   display: flex;
   justify-content: center;
   width: 100%;
